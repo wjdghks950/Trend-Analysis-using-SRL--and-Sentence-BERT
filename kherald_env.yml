@@ -1,0 +1,5 @@
+name: bertopic
+channels:
+  - conda-forge
+  - defaults
+prefix: /opt/conda/envs/bertopic
